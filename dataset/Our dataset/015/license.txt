@@ -1,0 +1,2 @@
+The input images are used from the following paper:
+Aseem Agarwala, Maneesh Agrawala, Michael Cohen, David Salesin, Rick Szeliski. "Photographing long scenes with multi-viewpoint panoramas,''  ACM Transactions on Graphics (Proceedings of SIGGRAPH 2006), 25(3), pp. 853-861, 2006.

@@ -1,0 +1,1 @@
+The input images are from Middlebury Stereo Datasets.
