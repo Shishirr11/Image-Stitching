@@ -1,4 +1,4 @@
-# Image-Stitching
+# Image Stitching
 ## Introduction
 
 This is a small “panorama maker” for **two overlapping photos**. You give it a left image and a right image, and it tries to line them up into one wider view. Under the hood it finds matching points, figures out how one photo should be stretched/shifted to sit on top of the other, and then blends the overlap so it doesn’t look like a harsh cut.
